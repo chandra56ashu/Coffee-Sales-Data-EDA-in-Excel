@@ -1,4 +1,5 @@
 ☕ Sales Data Analysis & Exploratory Data Analysis (EDA)
+
 📌 Project Overview
 
 This project performs an exploratory data analysis (EDA) on a coffee shop sales dataset to uncover customer purchasing patterns, peak demand periods, best-selling products, and seasonal trends. The objective is to transform raw transactional data into actionable business insights that can support operational planning, inventory management, pricing strategy, and targeted promotions.
@@ -62,23 +63,32 @@ Product analysis
 Americano with Milk, Latte, and Americano are the core volume drivers
 
 Weekly trends
+
 Sales strongest mid-week (Tuesday–Thursday)
+
 Sunday is consistently the weakest day
 
 Seasonal trends
+
 Peak demand in March and October
+
 Noticeable dip in April
 
 📈 Key Insights
 
 Customer behavior is stable and predictable, enabling reliable planning
+
 A small set of products drives the majority of sales volume
+
 Premium drinks contribute higher revenue per order
+
 Weekday footfall significantly exceeds weekend demand
+
 Seasonal demand patterns create clear promotion windows
 
 💡 Business Recommendations
 Operations & Staffing
+
 Increase staffing during 9–11 AM and 1–3 PM
 Optimise workforce allocation based on weekday demand
 
@@ -92,6 +102,7 @@ Americano
 Bundle low-selling items (e.g., Espresso + Pastry) to improve uptake
 
 Promotions & Marketing
+
 Launch campaigns during March, October, and February
 Introduce discounts in April to counter demand dip
 Focus promotions on mid-week, especially Tuesday
@@ -112,6 +123,7 @@ Data Visualisation – Sales trends and comparisons
 (The project is designed to be reproducible using Python / SQL for future extensions.)
 
 📁 Repository Structure
+
 ├── Sales_Data_Analysis_EDA.xlsx
 ├── Sales_Data_Ashutosh_Chandra.pdf
 ├── README.md
