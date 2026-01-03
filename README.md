@@ -48,14 +48,19 @@ Frequency analysis for categorical features
 2. Descriptive Statistics
 
 Mean, median, and mode analysis for:
+
 Hour of day
+
 Transaction value
+
 Weekday and month ordering
 
 3. Sales Pattern Analysis
 
 Time-based analysis
+
 10 AM identified as the single busiest hour
+
 Strong afternoon demand (1–3 PM)
 
 
@@ -87,9 +92,11 @@ Weekday footfall significantly exceeds weekend demand
 Seasonal demand patterns create clear promotion windows
 
 💡 Business Recommendations
+
 Operations & Staffing
 
 Increase staffing during 9–11 AM and 1–3 PM
+
 Optimise workforce allocation based on weekday demand
 
 Inventory & Menu Management
@@ -97,19 +104,25 @@ Inventory & Menu Management
 Maintain high inventory for:
 
 Americano with Milk
+
 Latte
+
 Americano
+
 Bundle low-selling items (e.g., Espresso + Pastry) to improve uptake
 
 Promotions & Marketing
 
 Launch campaigns during March, October, and February
+
 Introduce discounts in April to counter demand dip
+
 Focus promotions on mid-week, especially Tuesday
 
 Pricing Strategy
 
 Gradual price increases on premium beverages
+
 Keep high-volume products price-stable to protect demand elasticity
 
 🛠 Tools & Technologies
@@ -125,7 +138,9 @@ Data Visualisation – Sales trends and comparisons
 📁 Repository Structure
 
 ├── Sales_Data_Analysis_EDA.xlsx
+
 ├── Sales_Data_Ashutosh_Chandra.pdf
+
 ├── README.md
 
 🚀 Future Scope
